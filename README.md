@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lucasliu8796
-- 👀 I’m interested in JS, Vue and more
+- 👀 I’m interested in CSS, JS, Vue and more
 - 🌱 I’m currently learning how to learn
 
 <!---
